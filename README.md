@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Planellse/Planellse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Soy licenciado en informática.
 
 Gerencié el área técnica de Neoris en Colombia, fui Account Manager, lideré proyectos, capacité recursos, y formé parte de equipos de desarrollo. 
